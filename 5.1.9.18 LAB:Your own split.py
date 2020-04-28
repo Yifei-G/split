@@ -1,6 +1,6 @@
 def mysplit(strng):
 #
-# put your code here
+# 
 #
 	#First check all the empty and invalid strings, exclude them from further process...
 	if strng =="" or strng.isspace():
