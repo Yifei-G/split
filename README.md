@@ -27,8 +27,13 @@ Your task is to write your own function, which behaves almost exactly like the o
 
 Use the template in the editor. Test your code carefully.
 Expected output
+
 ['To', 'be', 'or', 'not', 'to', 'be,', 'that', 'is', 'the', 'question']
+
 ['To', 'be', 'or', 'not', 'to', 'be,that', 'is', 'the', 'question']
+
 []
+
 ['abc']
+
 []
