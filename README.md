@@ -1,6 +1,6 @@
 # split
 
-This is an implementation of split() method using Python
+This is an customized implementation of split() method using Python
 This exercise is requested by Python Institute excercise 5.1.9.18
 
 Estimated time
